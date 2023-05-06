@@ -5,6 +5,7 @@ This repository contains all the portfolio projects I made while completing Alex
 I'm using Parallels Desktop to run PowerBI. I created my own dashboard after following the guide.
 
 # Excel
+I designed a bike sales dashboard, and the corresponding results can be viewed below as a point of reference. In the future, I intend to enhance or construct a new dashboard to assess my abilities.
 
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/122549893/236611949-64fdce79-4f0c-43fd-9358-2bd27b643c8f.png">
 

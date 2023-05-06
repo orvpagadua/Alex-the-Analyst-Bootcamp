@@ -6,7 +6,8 @@ I'm using Parallels Desktop to run PowerBI. I created my own dashboard after fol
 
 # Excel
 
-<img width="912" alt="image" src="https://user-images.githubusercontent.com/122549893/236611843-ee35ede7-9eb3-4527-8698-d8a9ddedbb30.png">
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/122549893/236611949-64fdce79-4f0c-43fd-9358-2bd27b643c8f.png">
+
 
 # SQL
 # Python

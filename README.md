@@ -12,6 +12,3 @@ I designed a bike sales dashboard, and the corresponding results can be viewed b
 
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/122549893/236611949-64fdce79-4f0c-43fd-9358-2bd27b643c8f.png">
 
-
-# SQL
-# Python
